@@ -1,7 +1,6 @@
 ### Hi! I'm Rayssa 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando java script e PHP
+- 🔭 Hoje esperando o primeiro projeto
 - 😄 Pronomes: ela/dela
 - 👩‍🎓 Formação: Técnica em Informática
 - 👩‍💻 Curso complementar: Programação web
