@@ -1,12 +1,11 @@
 ### Hi! I'm Rayssa 👋
 
-- 🔭 Hoje esperando o primeiro projeto
-- 😄 Pronomes: ela/dela
-- 👩‍🎓 Formação: Técnica em Informática
-- 👩‍💻 Curso complementar: Programação web
-
+- 😄 Pronouns: she/her
+- 👩‍🎓 Education: Computer Technician
+- 👩‍💻 Complementary course: Web programming
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayssapereira03&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssapereira03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
   
