@@ -1,4 +1,4 @@
-### Hi! I'm Rayssa 👋 Loved the world of programming and future computer scientist!
+### Hi! I'm Rayssa 👋
 
 - 😄 Pronouns: she/her
 - 👩‍🎓 Education: Computer Technician
