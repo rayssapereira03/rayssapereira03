@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayssapereira03&theme=date_night&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssapereira03&layout=compact&theme=date_night&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssapereira03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 <div style="display: inline_block"><br>
   
@@ -20,6 +20,15 @@
 </div>
 
 ##
+<div align= center>
+  <a href="rayssapereiradasilvaa@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/rayssapereira3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 <div dir="auto">
   <a href = "mailto:rayssapereiradasilvaa@gmail.com">
