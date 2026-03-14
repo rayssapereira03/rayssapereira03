@@ -4,7 +4,8 @@
   <p>Sou técnica em informática e estudante de Sistemas de Informação.</p>
   <p>Tenho interesse em programação e desenvolvimento de software, e estou construindo projetos para desenvolver minhas habilidades na área de tecnologia.</p>
 </div>
-<br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayssapereira03&theme=date_night&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssapereira03&layout=compact&theme=date_night&show_icons=true)
 
