@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssapereira03&layout=compact&theme=date_night&show_icons=true)
 
 ##
-<div align=center style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   
   <img align="center"  height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
