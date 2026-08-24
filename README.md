@@ -35,7 +35,7 @@ Aqui você pode encontrar meus projetos e estudos relacionados a programação.
 <div align="center">
   <h3> Para saber mais, clique no botão ao lado 👉🏼 
   <a href="https://www.linkedin.com/in/rayssapereira3/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a></h3>
 </div>
 
