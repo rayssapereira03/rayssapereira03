@@ -1,35 +1,59 @@
-<div>
-  <h2>Oie, tudo bem? Seja bem vindo(a) ao meu perfil, sou Rayssa Pereira! 😊 </h2>
-  <br>
-  <p>Sou técnica em informática e estudante de Sistemas de Informação.</p>
-  <p>Tenho interesse em programação e desenvolvimento de software, e estou construindo projetos para desenvolver minhas habilidades na área de tecnologia.</p>
-</div>
+# 👋 Olá! Seja bem-vindo(a)!
 
+* 🎓 Técnica em Informática pela IFPB.
+* 💻 Graduanda em Sistemas de Informação na UFU.
+* 💖 Apaixonada por tecnologia e programação.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayssapereira03&theme=date_night&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssapereira03&layout=compact&theme=date_night&show_icons=true)
+---
 
-##
-<div align="center" style="display: inline_block"><br>
-  
-  <img align="center" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## 🛠️ Ferramentas e Linguagens
 
-##
-<div align= center>
-  <a href="mailto:rayssapereiradasilvaa@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<p align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=9&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Projetos
+
+Aqui você pode encontrar meus projetos e estudos relacionados a programação.
+
+💡 Sempre aprendendo, praticando e evoluindo!
+
+---
+<div align="center">
+  <h3> Para saber mais, clique no botão ao lado 👉🏼 
   <a href="https://www.linkedin.com/in/rayssapereira3/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  </a></h3>
 </div>
+
+<h3 align="center">
+  ✨ Obrigada pela visita! ✨
+</h3>
+
+
 
 
