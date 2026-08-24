@@ -1,10 +1,8 @@
 # 👋 Olá! Seja bem-vindo(a)!
 
-* 🎓 Técnica em Informática pela IFPB.
-* 💻 Graduanda em Sistemas de Informação na UFU.
-* 💖 Apaixonada por tecnologia e programação.
-
----
+  * 🎓 Técnica em Informática pela IFPB.
+  * 💻 Graduanda em Sistemas de Informação na UFU.
+  * 💖 Apaixonada por tecnologia e programação.
 
 ## 🛠️ Ferramentas e Linguagens
 
