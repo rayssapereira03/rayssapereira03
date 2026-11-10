@@ -1,7 +1,7 @@
 # 👋 Hi, seja bem-vindo(a) ao meu perfil!
 
   <img align="right" width="280" height="210" alt="workheresGIF" src="https://github.com/user-attachments/assets/855c9479-ee94-4596-8dd8-5e51f81b06dc" />
-  <p>🎓 Técnica em Informática pela IFPB.</p>
+  <p>🎓 Técnica em Informática pelo IFPB.</p>
   <p>💻 Graduanda em Sistemas de Informação na UFU.</p>
   <p>💖 Apaixonada por tecnologia e programação.</p>
   <br clear="all">
